@@ -303,6 +303,24 @@ This project uses multiple banking-related datasets containing information such 
 
 ### Marcelo Pereira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcelo-pereira-a4055b287)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarjoDev)
-```
+
+---
+
+# 📚 Dataset Reference | Referência do Dataset
+
+🇺🇸 Dataset used in this project was provided by:
+
+🔗 https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data
+
+Special thanks to the dataset creator for making the data publicly available for analysis and educational purposes.
+
+---
+
+🇧🇷 O dataset utilizado neste projeto foi disponibilizado por:
+
+🔗 https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data
+
+Agradecimentos ao criador do dataset por disponibilizar os dados publicamente para fins educacionais e analíticos.
+
+---
